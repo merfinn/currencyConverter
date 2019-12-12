@@ -1,4 +1,3 @@
-Hi,
 
 This application is a demonstration of a currency converter
 
@@ -14,8 +13,3 @@ Covers briefly, the criteria as listed below:
 * Background tasking
 * Self documented and clean code.
 * Unit Tests, UI Tests and measured code coverage.
-
-
-Best,
-Merve
-
