@@ -5,6 +5,7 @@ This application is a demonstration of a currency converter
 Covers briefly, the criteria as listed below:
 
 * User Defaults to store data
+* MVC - old design patern
 * JSON parser for API responses and from a file to an object
 * Long polling for continuous rates, background tasking
 * Search algorithms for matching disabled currencies and updated data
